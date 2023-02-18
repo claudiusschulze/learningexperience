@@ -1,0 +1,115 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/Lopende Zaken/2023/SCH231505 FIDS project/2022 Dive-in project/7. Deliverables/Manuals/FIDS_Digital Manual_INSPIRE Folder/Document fonts/AdobeFnt23.lst
+FileLength:2567
+FileModTime:698237705
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Dia-Black
+FamilyName:Dia
+StyleName:Black
+MenuName:Dia Black
+StyleBits:0
+WeightClass:900
+WidthClass:7
+AngleClass:0
+FullName:Dia-Black
+WritingScript:Roman
+OutlineFileName:/Volumes/Lopende Zaken/2023/SCH231505 FIDS project/2022 Dive-in project/7. Deliverables/Manuals/FIDS_Digital Manual_INSPIRE Folder/Document fonts/Dia-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:115520
+FileModTime:495376600
+NameArray:0,Mac,4,Dia-Black
+NameArray:0,Win,1,Dia Black
+NameArray:0,Win,16,Dia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Dia-Bold
+FamilyName:Dia
+StyleName:Bold
+MenuName:Dia Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Dia-Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/Lopende Zaken/2023/SCH231505 FIDS project/2022 Dive-in project/7. Deliverables/Manuals/FIDS_Digital Manual_INSPIRE Folder/Document fonts/Dia-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:114444
+FileModTime:495376582
+NameArray:0,Mac,4,Dia-Bold
+NameArray:0,Win,1,Dia Bold
+NameArray:0,Win,16,Dia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Dia-Regular
+FamilyName:Dia
+StyleName:Regular
+MenuName:Dia Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Dia-Regular
+WritingScript:Roman
+OutlineFileName:/Volumes/Lopende Zaken/2023/SCH231505 FIDS project/2022 Dive-in project/7. Deliverables/Manuals/FIDS_Digital Manual_INSPIRE Folder/Document fonts/Dia-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:112260
+FileModTime:495376556
+NameArray:0,Mac,4,Dia-Regular
+NameArray:0,Win,1,Dia Regular
+NameArray:0,Win,16,Dia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Dia-RegularItalic
+FamilyName:Dia
+StyleName:Regular Italic
+MenuName:Dia Regular Italic
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Dia-RegularItalic
+WritingScript:Roman
+OutlineFileName:/Volumes/Lopende Zaken/2023/SCH231505 FIDS project/2022 Dive-in project/7. Deliverables/Manuals/FIDS_Digital Manual_INSPIRE Folder/Document fonts/Dia-RegularItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:115940
+FileModTime:495376564
+NameArray:0,Mac,4,Dia-RegularItalic
+NameArray:0,Win,1,Dia Regular Italic
+NameArray:0,Win,16,Dia
+%EndFont
+
